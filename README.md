@@ -1,4 +1,7 @@
 # Gw2AutoPvp ~ Guild Wars 2 Automatic Pvp Bot
+
+2024-7-30
+
 # 一款激战2自动竞技场机器人脚本bot
 ---
 <p align="center">
